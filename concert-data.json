@@ -93,6 +93,15 @@
       "date": "2023-08-02",
       "planned": false,
       "rating": 7
+    },
+    {
+      "id": "059b72f9-72aa-4ae3-b7a7-b26f7c40786e",
+      "mainBand": "Helloween",
+      "supportBands": [],
+      "venue": "Wacken 2023",
+      "date": "2023-08-03",
+      "planned": false,
+      "rating": 5
     }
   ],
   "venues": [
