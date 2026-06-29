@@ -354,6 +354,15 @@
       "date": "2024-08-02",
       "planned": false,
       "rating": 8
+    },
+    {
+      "id": "babed8c2-c593-421a-8977-994bacaa2427",
+      "mainBand": "Spiritbox",
+      "supportBands": [],
+      "venue": "Wacken 2024",
+      "date": "2024-08-02",
+      "planned": false,
+      "rating": 4
     }
   ],
   "venues": [
