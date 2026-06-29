@@ -528,6 +528,15 @@
       "date": "2025-06-06",
       "planned": false,
       "rating": 5
+    },
+    {
+      "id": "66928534-a77e-4244-93ae-e09f9043553b",
+      "mainBand": "Slipknot",
+      "supportBands": [],
+      "venue": "Rock im Park 2025",
+      "date": "2025-06-06",
+      "planned": false,
+      "rating": 8
     }
   ],
   "venues": [
