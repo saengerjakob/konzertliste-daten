@@ -474,6 +474,15 @@
       "date": "2025-03-28",
       "planned": false,
       "rating": 5
+    },
+    {
+      "id": "6e6808bd-6e61-4542-b4fd-2d635ad2607c",
+      "mainBand": "Ghost",
+      "supportBands": [],
+      "venue": "Olympiahalle, München",
+      "date": "2025-04-24",
+      "planned": false,
+      "rating": 10
     }
   ],
   "venues": [
