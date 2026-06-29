@@ -300,6 +300,15 @@
       "date": "2024-08-01",
       "planned": false,
       "rating": 7
+    },
+    {
+      "id": "82357b5d-0c21-4089-b2e2-358ca07426cc",
+      "mainBand": "Scorpions",
+      "supportBands": [],
+      "venue": "Wacken 2024",
+      "date": "2024-08-01",
+      "planned": false,
+      "rating": 8
     }
   ],
   "venues": [
