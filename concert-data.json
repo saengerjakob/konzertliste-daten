@@ -681,6 +681,15 @@
       "date": "2025-07-31",
       "planned": false,
       "rating": 6
+    },
+    {
+      "id": "87f5d8e7-e692-4ffd-8e94-786a6c54bafb",
+      "mainBand": "Miracle of Sound",
+      "supportBands": [],
+      "venue": "Wacken 2025",
+      "date": "2025-07-31",
+      "planned": false,
+      "rating": 8
     }
   ],
   "venues": [
