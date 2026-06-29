@@ -546,6 +546,15 @@
       "date": "2025-06-07",
       "planned": false,
       "rating": 8
+    },
+    {
+      "id": "cb3f8591-e736-4df2-9543-3585eebb8bf1",
+      "mainBand": "Falling in Reverse",
+      "supportBands": [],
+      "venue": "Rock im Park 2025",
+      "date": "2025-06-07",
+      "planned": false,
+      "rating": 9
     }
   ],
   "venues": [
