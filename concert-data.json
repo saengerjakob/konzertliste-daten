@@ -843,6 +843,15 @@
       "date": "2025-11-20",
       "planned": false,
       "rating": 10
+    },
+    {
+      "id": "301c18fd-a9a5-4cb6-821d-a51ac1b10cd5",
+      "mainBand": "Electric Callboy",
+      "supportBands": [],
+      "venue": "Olympiahalle, München",
+      "date": "2025-11-26",
+      "planned": false,
+      "rating": 10
     }
   ],
   "venues": [
