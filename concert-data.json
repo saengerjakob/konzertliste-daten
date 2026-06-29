@@ -483,6 +483,15 @@
       "date": "2025-04-24",
       "planned": false,
       "rating": 10
+    },
+    {
+      "id": "e05e6ff0-3a60-44e0-a35b-eedac4255004",
+      "mainBand": "Evil Jared & X_Krogi",
+      "supportBands": [],
+      "venue": "Rock im Park 2025",
+      "date": "2025-06-06",
+      "planned": false,
+      "rating": 8
     }
   ],
   "venues": [
@@ -495,6 +504,7 @@
     "Königsplatz, München",
     "Muffathalle, München",
     "Olympiahalle, München",
+    "Rock im Park 2025",
     "sdf",
     "Strom, München",
     "Wacken 2022",
