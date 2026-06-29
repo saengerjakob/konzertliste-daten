@@ -753,6 +753,15 @@
       "date": "2025-08-01",
       "planned": false,
       "rating": 6
+    },
+    {
+      "id": "fdb5d35b-6650-44fb-a3a4-7dafb1d26860",
+      "mainBand": "August Burns Red",
+      "supportBands": [],
+      "venue": "Wacken 2025",
+      "date": "2025-08-02",
+      "planned": false,
+      "rating": 6
     }
   ],
   "venues": [
