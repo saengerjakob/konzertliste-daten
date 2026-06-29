@@ -214,11 +214,24 @@
       "date": "2024-04-19",
       "planned": false,
       "rating": 9
+    },
+    {
+      "id": "9739ab1c-7d45-4362-836a-ecbc35057955",
+      "mainBand": "Feuerschwanz",
+      "supportBands": [
+        "Orden Ogan",
+        "Dominum"
+      ],
+      "venue": "Backstage Werk, München",
+      "date": "2024-04-21",
+      "planned": false,
+      "rating": 8
     }
   ],
   "venues": [
     "Backstage Club, München",
     "Backstage Halle, München",
+    "Backstage Werk, München",
     "Festzelt Neumarkt-Sankt Veit",
     "FFW Schönberg",
     "Haberkasten, Mühldorf",
