@@ -426,6 +426,15 @@
       "date": "2024-08-03",
       "planned": false,
       "rating": 8
+    },
+    {
+      "id": "ca547c06-6d0c-4e35-a24b-b725a798e21a",
+      "mainBand": "Testament",
+      "supportBands": [],
+      "venue": "Wacken 2024",
+      "date": "2024-08-03",
+      "planned": false,
+      "rating": 5
     }
   ],
   "venues": [
