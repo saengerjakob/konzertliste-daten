@@ -573,6 +573,15 @@
       "date": "2025-06-07",
       "planned": false,
       "rating": 10
+    },
+    {
+      "id": "a95b1cc6-a2df-45b1-a60a-294cd9ae2981",
+      "mainBand": "The Warning",
+      "supportBands": [],
+      "venue": "Rock im Park 2025",
+      "date": "2025-06-07",
+      "planned": false,
+      "rating": 9
     }
   ],
   "venues": [
