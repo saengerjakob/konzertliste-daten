@@ -501,6 +501,15 @@
       "date": "2025-06-06",
       "planned": false,
       "rating": 5
+    },
+    {
+      "id": "29d57320-e0ca-4fac-98aa-3b14dc6285f3",
+      "mainBand": "In Flames",
+      "supportBands": [],
+      "venue": "Rock im Park 2025",
+      "date": "2025-06-06",
+      "planned": false,
+      "rating": 6
     }
   ],
   "venues": [
