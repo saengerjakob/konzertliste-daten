@@ -27,6 +27,15 @@
       "date": "2022-08-04",
       "planned": false,
       "rating": 7
+    },
+    {
+      "id": "362b703b-809b-46d8-ac43-854b28874b49",
+      "mainBand": "Alligatoah",
+      "supportBands": [],
+      "venue": "Wacken 2022",
+      "date": "2022-08-05",
+      "planned": false,
+      "rating": 5
     }
   ],
   "venues": [
