@@ -555,6 +555,15 @@
       "date": "2025-06-07",
       "planned": false,
       "rating": 9
+    },
+    {
+      "id": "c14e1c1f-ea22-427c-9549-11ab3d592224",
+      "mainBand": "Powerwolf",
+      "supportBands": [],
+      "venue": "Rock im Park 2025",
+      "date": "2025-06-07",
+      "planned": false,
+      "rating": 8
     }
   ],
   "venues": [
