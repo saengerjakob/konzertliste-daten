@@ -363,6 +363,15 @@
       "date": "2024-08-02",
       "planned": false,
       "rating": 4
+    },
+    {
+      "id": "3b0056cb-9857-41d6-a544-832c7c58a7b9",
+      "mainBand": "Amon Amarth",
+      "supportBands": [],
+      "venue": "Wacken 2024",
+      "date": "2024-08-03",
+      "planned": false,
+      "rating": 8
     }
   ],
   "venues": [
