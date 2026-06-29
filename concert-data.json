@@ -390,6 +390,15 @@
       "date": "2024-08-03",
       "planned": false,
       "rating": 7
+    },
+    {
+      "id": "70347896-d5d8-4c7d-b7ff-d2202e14d550",
+      "mainBand": "Emil Bulls",
+      "supportBands": [],
+      "venue": "Wacken 2024",
+      "date": "2024-08-03",
+      "planned": false,
+      "rating": 6
     }
   ],
   "venues": [
