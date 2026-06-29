@@ -492,6 +492,15 @@
       "date": "2025-06-06",
       "planned": false,
       "rating": 8
+    },
+    {
+      "id": "6c7d2f4e-22fb-4aff-a9d1-46c7d06946da",
+      "mainBand": "Future Palace",
+      "supportBands": [],
+      "venue": "Rock im Park 2025",
+      "date": "2025-06-06",
+      "planned": false,
+      "rating": 5
     }
   ],
   "venues": [
