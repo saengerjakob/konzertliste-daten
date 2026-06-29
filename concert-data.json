@@ -840,7 +840,9 @@
     {
       "id": "6737f4d3-cb18-4fbe-aaa8-9b95441fa2fc",
       "mainBand": "Sabaton",
-      "supportBands": [],
+      "supportBands": [
+        "The Legendary Orchestra"
+      ],
       "venue": "Olympiahalle, München",
       "date": "2025-11-20",
       "planned": false,
