@@ -120,6 +120,15 @@
       "date": "2023-08-03",
       "planned": false,
       "rating": 5
+    },
+    {
+      "id": "a1148e60-ac01-4d20-b13a-dae14558b9c8",
+      "mainBand": "Iron Maiden",
+      "supportBands": [],
+      "venue": "Wacken 2023",
+      "date": "2023-08-04",
+      "planned": false,
+      "rating": 7
     }
   ],
   "venues": [
