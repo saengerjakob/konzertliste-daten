@@ -708,6 +708,15 @@
       "date": "2025-08-01",
       "planned": false,
       "rating": 7
+    },
+    {
+      "id": "de5cc2c9-ec91-40b4-bd4c-e53433ee8151",
+      "mainBand": "Dominum",
+      "supportBands": [],
+      "venue": "Wacken 2025",
+      "date": "2025-08-01",
+      "planned": false,
+      "rating": 7
     }
   ],
   "venues": [
