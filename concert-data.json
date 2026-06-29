@@ -744,6 +744,15 @@
       "date": "2025-08-01",
       "planned": false,
       "rating": 9
+    },
+    {
+      "id": "af22f283-0c66-407d-88ae-1d5a155fd036",
+      "mainBand": "Schandmaul",
+      "supportBands": [],
+      "venue": "Wacken 2025",
+      "date": "2025-08-01",
+      "planned": false,
+      "rating": 6
     }
   ],
   "venues": [
