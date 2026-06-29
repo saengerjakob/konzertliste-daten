@@ -381,6 +381,15 @@
       "date": "2024-08-03",
       "planned": false,
       "rating": 9
+    },
+    {
+      "id": "724bf726-d0b3-44a2-8bec-534782af35a8",
+      "mainBand": "Dragonforce",
+      "supportBands": [],
+      "venue": "Wacken 2024",
+      "date": "2024-08-03",
+      "planned": false,
+      "rating": 7
     }
   ],
   "venues": [
