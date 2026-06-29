@@ -264,6 +264,15 @@
       "date": "2024-07-31",
       "planned": false,
       "rating": 7
+    },
+    {
+      "id": "e8b875c8-8573-4318-bb88-f7c814f02c0e",
+      "mainBand": "The Warning",
+      "supportBands": [],
+      "venue": "Wacken 2024",
+      "date": "2024-07-31",
+      "planned": false,
+      "rating": 8
     }
   ],
   "venues": [
