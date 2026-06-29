@@ -102,6 +102,15 @@
       "date": "2023-08-03",
       "planned": false,
       "rating": 5
+    },
+    {
+      "id": "3f7d5c7a-2641-449d-b6e7-0f598d3cc246",
+      "mainBand": "Pennywise",
+      "supportBands": [],
+      "venue": "Wacken 2023",
+      "date": "2023-08-03",
+      "planned": false,
+      "rating": 5
     }
   ],
   "venues": [
