@@ -9,10 +9,22 @@
       "date": "2025-05-12",
       "planned": false,
       "rating": 10
+    },
+    {
+      "id": "b6d4541f-aa26-4197-9145-a77ff89f31fd",
+      "mainBand": "dsf",
+      "supportBands": [
+        "sdf"
+      ],
+      "venue": "sdf",
+      "date": "2024-05-23",
+      "planned": false,
+      "rating": 7
     }
   ],
   "venues": [
-    "Olympiahalle, München"
+    "Olympiahalle, München",
+    "sdf"
   ],
   "preferences": {
     "roleColors": false,
