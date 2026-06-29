@@ -18,6 +18,15 @@
       "date": "2022-08-03",
       "planned": false,
       "rating": 7
+    },
+    {
+      "id": "d46d69fc-3582-446f-a803-eca6a9dc9617",
+      "mainBand": "Judas Priest",
+      "supportBands": [],
+      "venue": "Wacken 2022",
+      "date": "2022-08-04",
+      "planned": false,
+      "rating": 7
     }
   ],
   "venues": [
