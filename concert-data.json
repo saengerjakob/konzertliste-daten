@@ -591,6 +591,15 @@
       "date": "2025-06-08",
       "planned": false,
       "rating": 9
+    },
+    {
+      "id": "3a95ad4c-9f13-4fec-a9ff-a28fe9970674",
+      "mainBand": "Electric Brassboy",
+      "supportBands": [],
+      "venue": "Rock im Park 2025",
+      "date": "2025-06-08",
+      "planned": false,
+      "rating": 8
     }
   ],
   "venues": [
