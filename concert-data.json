@@ -465,6 +465,15 @@
       "date": "2025-02-24",
       "planned": false,
       "rating": 8
+    },
+    {
+      "id": "305a4f46-81b6-4ad5-9bd4-7bc45d0053d9",
+      "mainBand": "D'Artagnan",
+      "supportBands": [],
+      "venue": "Backstage Werk, München",
+      "date": "2025-03-28",
+      "planned": false,
+      "rating": 5
     }
   ],
   "venues": [
