@@ -564,6 +564,15 @@
       "date": "2025-06-07",
       "planned": false,
       "rating": 8
+    },
+    {
+      "id": "6eb454a6-c735-415e-a3da-d995fd881d08",
+      "mainBand": "Sleep Token",
+      "supportBands": [],
+      "venue": "Rock im Park 2025",
+      "date": "2025-06-07",
+      "planned": false,
+      "rating": 10
     }
   ],
   "venues": [
