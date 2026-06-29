@@ -717,6 +717,15 @@
       "date": "2025-08-01",
       "planned": false,
       "rating": 7
+    },
+    {
+      "id": "4a1bbde8-f9fa-40f6-928b-86c773f4947f",
+      "mainBand": "Heavysaurus",
+      "supportBands": [],
+      "venue": "Wacken 2025",
+      "date": "2025-08-01",
+      "planned": false,
+      "rating": 8
     }
   ],
   "venues": [
