@@ -9,12 +9,22 @@
       "date": "2027-05-24",
       "planned": false,
       "rating": 5
+    },
+    {
+      "id": "b6f3624c-16d5-4f30-aa48-13d33cf66e68",
+      "mainBand": "Gloryhammer",
+      "supportBands": [],
+      "venue": "Wacken 2022",
+      "date": "2022-08-03",
+      "planned": false,
+      "rating": 7
     }
   ],
   "venues": [
     "Festzelt Neumarkt-Sankt Veit",
     "Olympiahalle, München",
-    "sdf"
+    "sdf",
+    "Wacken 2022"
   ],
   "preferences": {
     "roleColors": false,
