@@ -861,6 +861,17 @@
       "date": "2025-12-02",
       "planned": false,
       "rating": 9
+    },
+    {
+      "id": "bfd3cfda-bb3a-4780-a950-230144e72652",
+      "mainBand": "Sleep Theory",
+      "supportBands": [
+        "The Pretty Wild"
+      ],
+      "venue": "Technikum, München",
+      "date": "2026-02-27",
+      "planned": false,
+      "rating": 8
     }
   ],
   "venues": [
@@ -876,6 +887,7 @@
     "Rock im Park 2025",
     "sdf",
     "Strom, München",
+    "Technikum, München",
     "Wacken 2022",
     "Wacken 2023",
     "Wacken 2024",
