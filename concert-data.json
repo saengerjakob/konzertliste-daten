@@ -627,6 +627,15 @@
       "date": "2025-06-08",
       "planned": false,
       "rating": 6
+    },
+    {
+      "id": "1a3d63b2-0bd5-43dc-bd74-78a7aa558014",
+      "mainBand": "Deine Cousine",
+      "supportBands": [],
+      "venue": "Wacken 2025",
+      "date": "2025-07-30",
+      "planned": false,
+      "rating": 5
     }
   ],
   "venues": [
@@ -644,7 +653,8 @@
     "Strom, München",
     "Wacken 2022",
     "Wacken 2023",
-    "Wacken 2024"
+    "Wacken 2024",
+    "Wacken 2025"
   ],
   "preferences": {
     "roleColors": false,
