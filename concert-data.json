@@ -1,7 +1,18 @@
 {
   "version": 2,
-  "concerts": [],
+  "concerts": [
+    {
+      "id": "f2df31f5-2258-4ed1-be79-527d259c984d",
+      "mainBand": "LaBrassBanda",
+      "supportBands": [],
+      "venue": "Festzelt Neumarkt-Sankt Veit",
+      "date": "2027-05-24",
+      "planned": false,
+      "rating": 5
+    }
+  ],
   "venues": [
+    "Festzelt Neumarkt-Sankt Veit",
     "Olympiahalle, München",
     "sdf"
   ],
