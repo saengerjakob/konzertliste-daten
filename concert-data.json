@@ -600,6 +600,15 @@
       "date": "2025-06-08",
       "planned": false,
       "rating": 8
+    },
+    {
+      "id": "b2371238-cbd5-4379-a596-7019c4ede5e5",
+      "mainBand": "Feine Sahne Fischfilet",
+      "supportBands": [],
+      "venue": "Rock im Park 2025",
+      "date": "2025-06-08",
+      "planned": false,
+      "rating": 6
     }
   ],
   "venues": [
