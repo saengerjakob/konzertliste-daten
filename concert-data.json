@@ -255,6 +255,15 @@
       "date": "2024-07-31",
       "planned": false,
       "rating": 6
+    },
+    {
+      "id": "59ea46a2-d915-4213-abf7-9b391eeba763",
+      "mainBand": "In Extremo",
+      "supportBands": [],
+      "venue": "Wacken 2024",
+      "date": "2024-07-31",
+      "planned": false,
+      "rating": 7
     }
   ],
   "venues": [
