@@ -771,6 +771,15 @@
       "date": "2025-08-02",
       "planned": false,
       "rating": 8
+    },
+    {
+      "id": "c028e8ac-025b-47c5-ba05-6aa3b15d005e",
+      "mainBand": "Within Temptation",
+      "supportBands": [],
+      "venue": "Wacken 2025",
+      "date": "2025-08-02",
+      "planned": false,
+      "rating": 6
     }
   ],
   "venues": [
