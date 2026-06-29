@@ -273,6 +273,15 @@
       "date": "2024-07-31",
       "planned": false,
       "rating": 8
+    },
+    {
+      "id": "621896c5-e07c-4a20-a8b6-12acd860b802",
+      "mainBand": "Accept",
+      "supportBands": [],
+      "venue": "Wacken 2024",
+      "date": "2024-08-01",
+      "planned": false,
+      "rating": 7
     }
   ],
   "venues": [
