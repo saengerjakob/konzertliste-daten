@@ -183,6 +183,15 @@
       "date": "2023-08-05",
       "planned": false,
       "rating": 8
+    },
+    {
+      "id": "7bbb1acd-a802-4df5-b878-da0b6434acf8",
+      "mainBand": "Plume",
+      "supportBands": [],
+      "venue": "Strom, München",
+      "date": "2024-01-13",
+      "planned": false,
+      "rating": 6
     }
   ],
   "venues": [
@@ -192,6 +201,7 @@
     "Königsplatz, München",
     "Olympiahalle, München",
     "sdf",
+    "Strom, München",
     "Wacken 2022",
     "Wacken 2023"
   ],
