@@ -408,6 +408,15 @@
       "date": "2024-08-03",
       "planned": false,
       "rating": 6
+    },
+    {
+      "id": "71f4ea3a-e5c7-4dbf-ab03-00a15d2ab78a",
+      "mainBand": "Hämatom",
+      "supportBands": [],
+      "venue": "Wacken 2024",
+      "date": "2024-08-03",
+      "planned": false,
+      "rating": 7
     }
   ],
   "venues": [
