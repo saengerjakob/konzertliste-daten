@@ -84,6 +84,15 @@
       "date": "2023-07-14",
       "planned": false,
       "rating": 6
+    },
+    {
+      "id": "cdb6aa84-5b27-439c-abf4-c2d55b14cb4c",
+      "mainBand": "Skindred",
+      "supportBands": [],
+      "venue": "Wacken 2023",
+      "date": "2023-08-02",
+      "planned": false,
+      "rating": 7
     }
   ],
   "venues": [
@@ -93,7 +102,8 @@
     "Königsplatz, München",
     "Olympiahalle, München",
     "sdf",
-    "Wacken 2022"
+    "Wacken 2022",
+    "Wacken 2023"
   ],
   "preferences": {
     "roleColors": false,
