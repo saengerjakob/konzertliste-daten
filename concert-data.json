@@ -54,10 +54,20 @@
       "date": "2022-08-06",
       "planned": false,
       "rating": 8
+    },
+    {
+      "id": "db2cc993-13f6-49a8-b82a-4ae3bf25ce30",
+      "mainBand": "LaBrassBanda",
+      "supportBands": [],
+      "venue": "FFW Schönberg",
+      "date": "2023-05-19",
+      "planned": false,
+      "rating": 9
     }
   ],
   "venues": [
     "Festzelt Neumarkt-Sankt Veit",
+    "FFW Schönberg",
     "Olympiahalle, München",
     "sdf",
     "Wacken 2022"
