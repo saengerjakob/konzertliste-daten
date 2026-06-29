@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "concerts": [
+    {
+      "id": "e3684135-28a7-4218-a0ea-aa0241dd1a0f",
+      "mainBand": "VOlbeat",
+      "supportBands": [],
+      "venue": "Olympiahalle, München",
+      "date": "2025-05-12",
+      "planned": false,
+      "rating": 10
+    }
+  ],
+  "venues": [
+    "Olympiahalle, München"
+  ],
+  "preferences": {
+    "roleColors": false,
+    "statSettings": [
+      "bands",
+      "appearances",
+      "places",
+      "year",
+      "upcoming",
+      "averageRating",
+      "topBands",
+      "topVenues"
+    ]
+  }
+}
