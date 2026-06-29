@@ -237,6 +237,15 @@
       "date": "2024-04-30",
       "planned": false,
       "rating": 8
+    },
+    {
+      "id": "6b1e43ea-b05e-40fb-a4b7-739039a6f391",
+      "mainBand": "Blind Channel",
+      "supportBands": [],
+      "venue": "Wacken 2024",
+      "date": "2024-07-31",
+      "planned": false,
+      "rating": 7
     }
   ],
   "venues": [
@@ -251,7 +260,8 @@
     "sdf",
     "Strom, München",
     "Wacken 2022",
-    "Wacken 2023"
+    "Wacken 2023",
+    "Wacken 2024"
   ],
   "preferences": {
     "roleColors": false,
