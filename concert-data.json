@@ -735,6 +735,15 @@
       "date": "2025-08-01",
       "planned": false,
       "rating": 7
+    },
+    {
+      "id": "b23c87de-f34c-4cdc-85a4-df734230d011",
+      "mainBand": "Papa Roach",
+      "supportBands": [],
+      "venue": "Wacken 2025",
+      "date": "2025-08-01",
+      "planned": false,
+      "rating": 9
     }
   ],
   "venues": [
