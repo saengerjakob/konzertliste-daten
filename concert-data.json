@@ -663,6 +663,15 @@
       "date": "2025-07-30",
       "planned": false,
       "rating": 8
+    },
+    {
+      "id": "aeca8887-c3a6-4d73-889d-a276a717dbd9",
+      "mainBand": "Guns N'Roses",
+      "supportBands": [],
+      "venue": "Wacken 2025",
+      "date": "2025-07-31",
+      "planned": false,
+      "rating": 3
     }
   ],
   "venues": [
