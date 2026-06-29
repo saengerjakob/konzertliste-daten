@@ -282,6 +282,15 @@
       "date": "2024-08-01",
       "planned": false,
       "rating": 7
+    },
+    {
+      "id": "f8d722b3-d2d3-4e99-b2d8-5d46b5bdff20",
+      "mainBand": "Alligatoah",
+      "supportBands": [],
+      "venue": "Wacken 2024",
+      "date": "2024-08-01",
+      "planned": false,
+      "rating": 7
     }
   ],
   "venues": [
