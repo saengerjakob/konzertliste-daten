@@ -203,9 +203,21 @@
       "date": "2024-02-02",
       "planned": false,
       "rating": 5
+    },
+    {
+      "id": "d08948d0-e9a2-4feb-82eb-93411edc530c",
+      "mainBand": "Anchors & Hearts",
+      "supportBands": [
+        "Oceans"
+      ],
+      "venue": "Backstage Club, München",
+      "date": "2024-04-19",
+      "planned": false,
+      "rating": 9
     }
   ],
   "venues": [
+    "Backstage Club, München",
     "Backstage Halle, München",
     "Festzelt Neumarkt-Sankt Veit",
     "FFW Schönberg",
