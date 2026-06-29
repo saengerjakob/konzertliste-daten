@@ -147,6 +147,15 @@
       "date": "2023-08-04",
       "planned": false,
       "rating": 6
+    },
+    {
+      "id": "2a3d2e09-cb3b-41b4-9131-d669473754cc",
+      "mainBand": "Alestorm",
+      "supportBands": [],
+      "venue": "Wacken 2023",
+      "date": "2023-08-05",
+      "planned": false,
+      "rating": 7
     }
   ],
   "venues": [
