@@ -291,6 +291,15 @@
       "date": "2024-08-01",
       "planned": false,
       "rating": 7
+    },
+    {
+      "id": "9be69639-4a69-4733-bcc5-cc6e34e1c6a7",
+      "mainBand": "MrBig",
+      "supportBands": [],
+      "venue": "Wacken 2024",
+      "date": "2024-08-01",
+      "planned": false,
+      "rating": 7
     }
   ],
   "venues": [
