@@ -762,6 +762,15 @@
       "date": "2025-08-02",
       "planned": false,
       "rating": 6
+    },
+    {
+      "id": "52b62a7f-aa7e-41c9-b927-336ea955b299",
+      "mainBand": "Gojira",
+      "supportBands": [],
+      "venue": "Wacken 2025",
+      "date": "2025-08-02",
+      "planned": false,
+      "rating": 8
     }
   ],
   "venues": [
