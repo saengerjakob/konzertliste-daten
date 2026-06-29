@@ -912,6 +912,7 @@
       "year",
       "upcoming",
       "averageRating",
+      "repeatRate",
       "topBands",
       "topVenues"
     ]
