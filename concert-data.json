@@ -519,6 +519,15 @@
       "date": "2025-06-06",
       "planned": false,
       "rating": 7
+    },
+    {
+      "id": "21b9bf01-c60d-48aa-b5ba-a9efedcb54c7",
+      "mainBand": "Skillet",
+      "supportBands": [],
+      "venue": "Rock im Park 2025",
+      "date": "2025-06-06",
+      "planned": false,
+      "rating": 5
     }
   ],
   "venues": [
