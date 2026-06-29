@@ -246,6 +246,15 @@
       "date": "2024-07-31",
       "planned": false,
       "rating": 7
+    },
+    {
+      "id": "e0307bcc-a909-4c9d-bb8a-da78cf349af4",
+      "mainBand": "Bülent Ceylan",
+      "supportBands": [],
+      "venue": "Wacken 2024",
+      "date": "2024-07-31",
+      "planned": false,
+      "rating": 6
     }
   ],
   "venues": [
