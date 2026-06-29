@@ -829,7 +829,9 @@
     {
       "id": "e9145231-0821-4829-8da9-8c05bbe1af3c",
       "mainBand": "From Fall to Spring",
-      "supportBands": [],
+      "supportBands": [
+        "Cyan Kicks"
+      ],
       "venue": "Backstage Halle, München",
       "date": "2025-11-09",
       "planned": false,
