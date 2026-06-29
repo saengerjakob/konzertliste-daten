@@ -318,6 +318,15 @@
       "date": "2024-08-02",
       "planned": false,
       "rating": 5
+    },
+    {
+      "id": "0b7a7458-19f0-448b-9969-691bb8097c36",
+      "mainBand": "Blind Guardian",
+      "supportBands": [],
+      "venue": "Wacken 2024",
+      "date": "2024-08-02",
+      "planned": false,
+      "rating": 9
     }
   ],
   "venues": [
