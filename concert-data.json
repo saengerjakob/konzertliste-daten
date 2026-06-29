@@ -726,6 +726,15 @@
       "date": "2025-08-01",
       "planned": false,
       "rating": 8
+    },
+    {
+      "id": "0af197b4-39b1-4674-98a0-5c55dc712bc3",
+      "mainBand": "Landmvrks",
+      "supportBands": [],
+      "venue": "Wacken 2025",
+      "date": "2025-08-01",
+      "planned": false,
+      "rating": 7
     }
   ],
   "venues": [
