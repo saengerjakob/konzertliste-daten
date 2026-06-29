@@ -192,9 +192,19 @@
       "date": "2024-01-13",
       "planned": false,
       "rating": 6
+    },
+    {
+      "id": "c8136e7c-5a8e-4679-9384-ef61f070b225",
+      "mainBand": "Burning Witches",
+      "supportBands": [],
+      "venue": "Backstage Halle, München",
+      "date": "2024-02-02",
+      "planned": false,
+      "rating": 5
     }
   ],
   "venues": [
+    "Backstage Halle, München",
     "Festzelt Neumarkt-Sankt Veit",
     "FFW Schönberg",
     "Haberkasten, Mühldorf",
