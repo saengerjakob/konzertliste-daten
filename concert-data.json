@@ -129,6 +129,15 @@
       "date": "2023-08-04",
       "planned": false,
       "rating": 7
+    },
+    {
+      "id": "c3084fe1-bc24-4126-86b2-6493f1a86abc",
+      "mainBand": "Megadeth",
+      "supportBands": [],
+      "venue": "Wacken 2023",
+      "date": "2023-08-04",
+      "planned": false,
+      "rating": 6
     }
   ],
   "venues": [
