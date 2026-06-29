@@ -327,6 +327,15 @@
       "date": "2024-08-02",
       "planned": false,
       "rating": 9
+    },
+    {
+      "id": "1beb137a-8be4-4286-b033-ab16f1278397",
+      "mainBand": "Feuerschwanz",
+      "supportBands": [],
+      "venue": "Wacken 2024",
+      "date": "2024-08-02",
+      "planned": false,
+      "rating": 8
     }
   ],
   "venues": [
