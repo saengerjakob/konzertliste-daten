@@ -645,6 +645,15 @@
       "date": "2025-07-30",
       "planned": false,
       "rating": 8
+    },
+    {
+      "id": "c8e2cf9e-a9fe-4901-a7ea-12817ddf7faa",
+      "mainBand": "Saltatio Mortis",
+      "supportBands": [],
+      "venue": "Wacken 2025",
+      "date": "2025-07-03",
+      "planned": false,
+      "rating": 8
     }
   ],
   "venues": [
