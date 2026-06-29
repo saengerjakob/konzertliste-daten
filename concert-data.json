@@ -672,6 +672,15 @@
       "date": "2025-07-31",
       "planned": false,
       "rating": 3
+    },
+    {
+      "id": "6050f630-8f33-44ca-8d70-41f6ef005a16",
+      "mainBand": "Michael Schenker",
+      "supportBands": [],
+      "venue": "Wacken 2025",
+      "date": "2025-07-31",
+      "planned": false,
+      "rating": 6
     }
   ],
   "venues": [
