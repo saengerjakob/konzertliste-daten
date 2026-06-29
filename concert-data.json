@@ -636,6 +636,15 @@
       "date": "2025-07-30",
       "planned": false,
       "rating": 5
+    },
+    {
+      "id": "dd647849-5417-4b3a-8e57-98b15636a826",
+      "mainBand": "From Fall to Spring",
+      "supportBands": [],
+      "venue": "Wacken 2025",
+      "date": "2025-07-30",
+      "planned": false,
+      "rating": 8
     }
   ],
   "venues": [
