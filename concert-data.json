@@ -804,6 +804,18 @@
       "date": "2025-10-01",
       "planned": false,
       "rating": 9
+    },
+    {
+      "id": "474e04c2-c298-4a80-a65c-4d01033ddbfa",
+      "mainBand": "Volbeat",
+      "supportBands": [
+        "Bush",
+        "Witch Fever"
+      ],
+      "venue": "Olympiahalle, München",
+      "date": "2025-10-06",
+      "planned": false,
+      "rating": 9
     }
   ],
   "venues": [
