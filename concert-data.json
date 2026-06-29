@@ -345,6 +345,15 @@
       "date": "2024-08-02",
       "planned": false,
       "rating": 5
+    },
+    {
+      "id": "c81e8fe8-ec2f-443d-98ba-3e6096e8b114",
+      "mainBand": "Korn",
+      "supportBands": [],
+      "venue": "Wacken 2024",
+      "date": "2024-08-02",
+      "planned": false,
+      "rating": 8
     }
   ],
   "venues": [
