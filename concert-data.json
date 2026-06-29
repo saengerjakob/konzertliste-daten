@@ -196,7 +196,9 @@
     {
       "id": "c8136e7c-5a8e-4679-9384-ef61f070b225",
       "mainBand": "Burning Witches",
-      "supportBands": [],
+      "supportBands": [
+        "Gomorra"
+      ],
       "venue": "Backstage Halle, München",
       "date": "2024-02-02",
       "planned": false,
