@@ -699,6 +699,15 @@
       "date": "2025-07-31",
       "planned": false,
       "rating": 6
+    },
+    {
+      "id": "e537ccc2-32b4-4c1e-8791-5c10beff875d",
+      "mainBand": "Brothers of Metal",
+      "supportBands": [],
+      "venue": "Wacken 2025",
+      "date": "2025-08-01",
+      "planned": false,
+      "rating": 7
     }
   ],
   "venues": [
