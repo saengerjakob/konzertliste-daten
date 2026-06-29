@@ -780,6 +780,18 @@
       "date": "2025-08-02",
       "planned": false,
       "rating": 6
+    },
+    {
+      "id": "4a1bc514-1b1e-4a93-a08b-35b42d4415a7",
+      "mainBand": "Parkway Drive",
+      "supportBands": [
+        "Thy Art Is Murder",
+        "The Amity Affliction"
+      ],
+      "venue": "Olympiahalle, München",
+      "date": "2025-09-20",
+      "planned": false,
+      "rating": 10
     }
   ],
   "venues": [
