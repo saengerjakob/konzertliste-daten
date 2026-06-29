@@ -792,6 +792,18 @@
       "date": "2025-09-20",
       "planned": false,
       "rating": 10
+    },
+    {
+      "id": "385211a4-b720-4689-afe1-3cf3b7ae1a98",
+      "mainBand": "Architects",
+      "supportBands": [
+        "Wage War",
+        "House of Protection"
+      ],
+      "venue": "Zenith, München",
+      "date": "2025-10-01",
+      "planned": false,
+      "rating": 9
     }
   ],
   "venues": [
@@ -810,7 +822,8 @@
     "Wacken 2022",
     "Wacken 2023",
     "Wacken 2024",
-    "Wacken 2025"
+    "Wacken 2025",
+    "Zenith, München"
   ],
   "preferences": {
     "roleColors": false,
