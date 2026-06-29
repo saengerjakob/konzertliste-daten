@@ -226,6 +226,17 @@
       "date": "2024-04-21",
       "planned": false,
       "rating": 8
+    },
+    {
+      "id": "56432aea-4d57-4b5b-a0fd-93a4134657d6",
+      "mainBand": "Attic Stories",
+      "supportBands": [
+        "Shoreline"
+      ],
+      "venue": "Backstage Club, München",
+      "date": "2024-04-30",
+      "planned": false,
+      "rating": 8
     }
   ],
   "venues": [
