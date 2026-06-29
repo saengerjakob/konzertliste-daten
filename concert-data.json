@@ -309,6 +309,15 @@
       "date": "2024-08-01",
       "planned": false,
       "rating": 8
+    },
+    {
+      "id": "22480a47-192d-495b-b519-032f4e6c96e4",
+      "mainBand": "Avantasia",
+      "supportBands": [],
+      "venue": "Wacken 2024",
+      "date": "2024-08-02",
+      "planned": false,
+      "rating": 5
     }
   ],
   "venues": [
