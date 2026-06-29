@@ -609,6 +609,15 @@
       "date": "2025-06-08",
       "planned": false,
       "rating": 6
+    },
+    {
+      "id": "ac15be06-ac3b-49e6-ad2b-037c7b90227f",
+      "mainBand": "KIZ",
+      "supportBands": [],
+      "venue": "Rock im Park 2025",
+      "date": "2025-06-08",
+      "planned": false,
+      "rating": 8
     }
   ],
   "venues": [
