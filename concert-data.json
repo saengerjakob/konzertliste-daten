@@ -510,6 +510,15 @@
       "date": "2025-06-06",
       "planned": false,
       "rating": 6
+    },
+    {
+      "id": "63265d22-19e1-472c-9828-db65862c6821",
+      "mainBand": "KontraK",
+      "supportBands": [],
+      "venue": "Rock im Park 2025",
+      "date": "2025-06-06",
+      "planned": false,
+      "rating": 7
     }
   ],
   "venues": [
