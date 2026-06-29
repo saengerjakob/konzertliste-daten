@@ -894,7 +894,6 @@
     "Muffathalle, München",
     "Olympiahalle, München",
     "Rock im Park 2025",
-    "sdf",
     "Strom, München",
     "Technikum, München",
     "Wacken 2022",
@@ -912,7 +911,9 @@
       "year",
       "upcoming",
       "averageRating",
+      "perfectRatings",
       "repeatRate",
+      "nextConcert",
       "topBands",
       "topVenues"
     ]
