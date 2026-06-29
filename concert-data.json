@@ -27,7 +27,7 @@
     "sdf"
   ],
   "preferences": {
-    "roleColors": false,
+    "roleColors": true,
     "statSettings": [
       "bands",
       "appearances",
