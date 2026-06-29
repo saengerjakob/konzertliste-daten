@@ -537,6 +537,15 @@
       "date": "2025-06-06",
       "planned": false,
       "rating": 8
+    },
+    {
+      "id": "64edfe33-15ad-434a-acb2-c29bd108d0ba",
+      "mainBand": "Dead Poet Society",
+      "supportBands": [],
+      "venue": "Rock im Park 2025",
+      "date": "2025-06-07",
+      "planned": false,
+      "rating": 8
     }
   ],
   "venues": [
