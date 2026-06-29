@@ -456,6 +456,15 @@
       "date": "2024-10-25",
       "planned": false,
       "rating": 9
+    },
+    {
+      "id": "7ab67b59-9796-4de2-8ece-d3eed1e42f6c",
+      "mainBand": "triosence",
+      "supportBands": [],
+      "venue": "Haberkasten, Mühldorf",
+      "date": "2025-02-24",
+      "planned": false,
+      "rating": 8
     }
   ],
   "venues": [
