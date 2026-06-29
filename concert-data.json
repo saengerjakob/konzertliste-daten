@@ -36,6 +36,15 @@
       "date": "2022-08-05",
       "planned": false,
       "rating": 5
+    },
+    {
+      "id": "645824de-3fce-40cc-a25c-8094709c3149",
+      "mainBand": "Slipknot",
+      "supportBands": [],
+      "venue": "Wacken 2022",
+      "date": "2022-08-05",
+      "planned": false,
+      "rating": 8
     }
   ],
   "venues": [
