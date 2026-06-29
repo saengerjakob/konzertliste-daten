@@ -399,6 +399,15 @@
       "date": "2024-08-03",
       "planned": false,
       "rating": 6
+    },
+    {
+      "id": "4055ee5e-81d1-4801-9307-35ebceff7ceb",
+      "mainBand": "Finch",
+      "supportBands": [],
+      "venue": "Wacken 2024",
+      "date": "2024-08-03",
+      "planned": false,
+      "rating": 6
     }
   ],
   "venues": [
