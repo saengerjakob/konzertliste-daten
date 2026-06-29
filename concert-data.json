@@ -816,6 +816,15 @@
       "date": "2025-10-06",
       "planned": false,
       "rating": 9
+    },
+    {
+      "id": "6e3bac5d-4518-46d4-8ce0-eb719de7d984",
+      "mainBand": "dicht & ergreifend",
+      "supportBands": [],
+      "venue": "Olympiahalle, München",
+      "date": "2025-10-25",
+      "planned": false,
+      "rating": 9
     }
   ],
   "venues": [
