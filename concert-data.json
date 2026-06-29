@@ -372,6 +372,15 @@
       "date": "2024-08-03",
       "planned": false,
       "rating": 8
+    },
+    {
+      "id": "7a188bc2-be54-4398-b6d8-c5e72e88c1b7",
+      "mainBand": "Architects",
+      "supportBands": [],
+      "venue": "Wacken 2024",
+      "date": "2024-08-03",
+      "planned": false,
+      "rating": 9
     }
   ],
   "venues": [
