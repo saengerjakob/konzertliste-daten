@@ -45,6 +45,15 @@
       "date": "2022-08-05",
       "planned": false,
       "rating": 8
+    },
+    {
+      "id": "c395bab0-f348-4beb-a9fb-309e99be1517",
+      "mainBand": "Powerwolf",
+      "supportBands": [],
+      "venue": "Wacken 2022",
+      "date": "2022-08-06",
+      "planned": false,
+      "rating": 8
     }
   ],
   "venues": [
