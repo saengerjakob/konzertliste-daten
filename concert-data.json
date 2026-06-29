@@ -336,6 +336,15 @@
       "date": "2024-08-02",
       "planned": false,
       "rating": 8
+    },
+    {
+      "id": "ecbfe6e2-50be-4598-99cd-0d4b9042838d",
+      "mainBand": "Future Palace",
+      "supportBands": [],
+      "venue": "Wacken 2024",
+      "date": "2024-08-02",
+      "planned": false,
+      "rating": 5
     }
   ],
   "venues": [
