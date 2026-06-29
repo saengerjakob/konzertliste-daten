@@ -618,6 +618,15 @@
       "date": "2025-06-08",
       "planned": false,
       "rating": 8
+    },
+    {
+      "id": "900e27f3-58b5-4408-a9fa-a78808a94d4a",
+      "mainBand": "Poppy",
+      "supportBands": [],
+      "venue": "Rock im Park 2025",
+      "date": "2025-06-08",
+      "planned": false,
+      "rating": 6
     }
   ],
   "venues": [
