@@ -582,6 +582,15 @@
       "date": "2025-06-07",
       "planned": false,
       "rating": 9
+    },
+    {
+      "id": "a5abbe7f-5911-4fc0-af1c-bc5c68fb2395",
+      "mainBand": "Bring Me The Horizon",
+      "supportBands": [],
+      "venue": "Rock im Park 2025",
+      "date": "2025-06-08",
+      "planned": false,
+      "rating": 9
     }
   ],
   "venues": [
