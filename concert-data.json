@@ -834,6 +834,15 @@
       "date": "2025-11-09",
       "planned": false,
       "rating": 8
+    },
+    {
+      "id": "6737f4d3-cb18-4fbe-aaa8-9b95441fa2fc",
+      "mainBand": "Sabaton",
+      "supportBands": [],
+      "venue": "Olympiahalle, München",
+      "date": "2025-11-20",
+      "planned": false,
+      "rating": 10
     }
   ],
   "venues": [
