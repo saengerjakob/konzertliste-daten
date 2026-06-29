@@ -435,6 +435,15 @@
       "date": "2024-08-03",
       "planned": false,
       "rating": 5
+    },
+    {
+      "id": "2e930242-b60c-4c0e-8b42-b7d9b38d0453",
+      "mainBand": "Caravan Palace",
+      "supportBands": [],
+      "venue": "Muffathalle, München",
+      "date": "2024-10-10",
+      "planned": false,
+      "rating": 9
     }
   ],
   "venues": [
@@ -445,6 +454,7 @@
     "FFW Schönberg",
     "Haberkasten, Mühldorf",
     "Königsplatz, München",
+    "Muffathalle, München",
     "Olympiahalle, München",
     "sdf",
     "Strom, München",
