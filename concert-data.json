@@ -75,11 +75,21 @@
       "date": "2023-06-24",
       "planned": false,
       "rating": 7
+    },
+    {
+      "id": "3db7dbd7-609f-430a-bae2-18f8e4660a7a",
+      "mainBand": "dreiviertelblut",
+      "supportBands": [],
+      "venue": "Haberkasten, Mühldorf",
+      "date": "2023-07-14",
+      "planned": false,
+      "rating": 6
     }
   ],
   "venues": [
     "Festzelt Neumarkt-Sankt Veit",
     "FFW Schönberg",
+    "Haberkasten, Mühldorf",
     "Königsplatz, München",
     "Olympiahalle, München",
     "sdf",
