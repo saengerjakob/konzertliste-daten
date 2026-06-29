@@ -654,6 +654,15 @@
       "date": "2025-07-03",
       "planned": false,
       "rating": 8
+    },
+    {
+      "id": "97622ee6-01b7-4e3d-8d99-836381f77869",
+      "mainBand": "Wind Rose",
+      "supportBands": [],
+      "venue": "Wacken 2025",
+      "date": "2025-07-30",
+      "planned": false,
+      "rating": 8
     }
   ],
   "venues": [
