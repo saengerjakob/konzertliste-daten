@@ -63,11 +63,24 @@
       "date": "2023-05-19",
       "planned": false,
       "rating": 9
+    },
+    {
+      "id": "d29f5299-502a-4c3c-8063-3d27aa72a6d1",
+      "mainBand": "Slipknot",
+      "supportBands": [
+        "IPrevail",
+        "Disturbed"
+      ],
+      "venue": "Königsplatz, München",
+      "date": "2023-06-24",
+      "planned": false,
+      "rating": 7
     }
   ],
   "venues": [
     "Festzelt Neumarkt-Sankt Veit",
     "FFW Schönberg",
+    "Königsplatz, München",
     "Olympiahalle, München",
     "sdf",
     "Wacken 2022"
