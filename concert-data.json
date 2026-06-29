@@ -111,6 +111,15 @@
       "date": "2023-08-03",
       "planned": false,
       "rating": 5
+    },
+    {
+      "id": "dbd11eb1-021f-40c7-bf3c-c3bcc935f627",
+      "mainBand": "Uria Heep",
+      "supportBands": [],
+      "venue": "Wacken 2023",
+      "date": "2023-08-03",
+      "planned": false,
+      "rating": 5
     }
   ],
   "venues": [
