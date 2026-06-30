@@ -881,15 +881,6 @@
       "date": "2026-02-27",
       "planned": false,
       "rating": 8
-    },
-    {
-      "id": "4b924dad-e5d8-4eea-8b6e-1eec53d356f3",
-      "mainBand": "AnnenMyKantereit",
-      "supportBands": [],
-      "venue": "Olympiahalle, München",
-      "date": "2026-09-15",
-      "planned": true,
-      "rating": 0
     }
   ],
   "venues": [
