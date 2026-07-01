@@ -1012,10 +1012,12 @@
       "appearances",
       "places",
       "year",
-      "upcoming",
       "averageRating",
+      "perfectRatings",
+      "lastConcert",
       "topBands",
-      "topVenues"
+      "topVenues",
+      "topRated"
     ]
   }
 }
